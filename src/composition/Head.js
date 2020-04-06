@@ -1,7 +1,7 @@
 import React from 'react'
 import './Head.css';
 
-function Head(){
+function Head() {
     return (
         <header>
             <h1>Sally Student resume</h1>

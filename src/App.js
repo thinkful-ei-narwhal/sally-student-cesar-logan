@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Head from './composition/Head'
+import Info from './composition/Info'
 
 function App() {
   return (
+
     <main className="App">
-      <Split></Split>
+      <Head></Head>
+      <Info></Info>
     </main>
   );
 }
