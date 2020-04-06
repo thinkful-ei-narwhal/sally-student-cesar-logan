@@ -3,7 +3,6 @@ import './Info.css';
 
 function Info(props) {
     return (
-        <div>
             <main>
                 <section>
                     <h2>About Sally Student</h2>
@@ -46,7 +45,6 @@ function Info(props) {
                     </address>
                 </section>
             </main>        
-    </div>
     )
 }
 export default Info;
