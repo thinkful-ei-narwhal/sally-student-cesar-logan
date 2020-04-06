@@ -5,7 +5,6 @@ import Info from './composition/Info'
 
 function App() {
   return (
-
     <main className="App">
       <Head></Head>
       <Info></Info>
